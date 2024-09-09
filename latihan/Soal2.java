@@ -1,8 +1,7 @@
 package latihan;
-
+import java.util.Scanner;
 public class Soal2 {
-    import java.util.Scanner;
-
+    
     public class NilaiMaksimumTiga {
         public static void main(String[] args) {
             // Membuat scanner untuk input
